@@ -1,0 +1,270 @@
+JUnit version 4.13.2
+.........Iteration 1
+(1, 2) [3]
+Expand DOWN
+Expand LEFT
+Expand RIGHT
+Nothing left to expand.
+Iteration 2
+(1, 2) [3] --DOWN--> (2, 2) [3]
+Expand DOWN
+Expand UP
+Expand LEFT
+Expand RIGHT
+Nothing left to expand.
+Iteration 3
+(1, 2) [3] --LEFT--> (1, 1) [4]
+Expand DOWN
+Expand RIGHT
+Nothing left to expand.
+Iteration 4
+(1, 2) [3] --DOWN--> (2, 2) [3] --LEFT--> (2, 1) [4]
+Expand UP
+Expand DOWN
+Expand RIGHT
+Nothing left to expand.
+Iteration 5
+(1, 2) [3] --DOWN--> (2, 2) [3] --DOWN--> (3, 2) [4]
+Expand UP
+Expand LEFT
+Expand RIGHT
+Nothing left to expand.
+Iteration 6
+(1, 2) [3] --LEFT--> (1, 1) [4] --DOWN--> (2, 1) [4]
+Expand DOWN
+Expand UP
+Expand RIGHT
+Nothing left to expand.
+Iteration 7
+(1, 2) [3] --DOWN--> (2, 2) [3] --DOWN--> (3, 2) [4] --RIGHT--> (3, 3) [5]
+Expand UP
+Expand LEFT
+Nothing left to expand.
+Iteration 8
+(1, 2) [3] --LEFT--> (1, 1) [4] --DOWN--> (2, 1) [4] --RIGHT--> (2, 2) [5]
+Expand RIGHT
+Expand UP
+Expand DOWN
+Expand LEFT
+Nothing left to expand.
+Iteration 9
+(1, 2) [3] --DOWN--> (2, 2) [3] --RIGHT--> (2, 3) [5]
+Expand UP
+Expand DOWN
+Expand LEFT
+Nothing left to expand.
+Iteration 10
+(1, 2) [3] --DOWN--> (2, 2) [3] --UP--> (1, 2) [5]
+Expand DOWN
+Expand LEFT
+Expand RIGHT
+Nothing left to expand.
+Iteration 11
+(1, 2) [3] --DOWN--> (2, 2) [3] --DOWN--> (3, 2) [4] --UP--> (2, 2) [5]
+Expand UP
+Expand DOWN
+Expand LEFT
+Expand RIGHT
+Nothing left to expand.
+Iteration 12
+(1, 2) [3] --DOWN--> (2, 2) [3] --RIGHT--> (2, 3) [5] --DOWN--> (3, 3) [5]
+Expand UP
+Expand LEFT
+Nothing left to expand.
+Iteration 13
+(1, 2) [3] --DOWN--> (2, 2) [3] --RIGHT--> (2, 3) [5] --LEFT--> (2, 2) [5]
+Expand LEFT
+Expand UP
+Expand DOWN
+Expand RIGHT
+Nothing left to expand.
+Iteration 14
+(1, 2) [3] --DOWN--> (2, 2) [3] --UP--> (1, 2) [5] --DOWN--> (2, 2) [5]
+Expand DOWN
+Expand LEFT
+Expand RIGHT
+Nothing left to expand.
+Iteration 15
+(1, 2) [3] --RIGHT--> (1, 3) [5]
+Expand DOWN
+Expand LEFT
+Nothing left to expand.
+Iteration 16
+(1, 2) [3] --DOWN--> (2, 2) [3] --LEFT--> (2, 1) [4] --RIGHT--> (2, 2) [5]
+Expand RIGHT
+Expand UP
+Expand DOWN
+Expand LEFT
+Nothing left to expand.
+Iteration 17
+(1, 2) [3] --LEFT--> (1, 1) [4] --RIGHT--> (1, 2) [5]
+Expand RIGHT
+Expand DOWN
+Expand LEFT
+Nothing left to expand.
+Iteration 18
+(1, 2) [3] --DOWN--> (2, 2) [3] --RIGHT--> (2, 3) [5] --DOWN--> (3, 3) [5] --LEFT--> (3, 2) [5]
+Expand LEFT
+Expand UP
+Expand RIGHT
+Nothing left to expand.
+Iteration 19
+(1, 2) [3] --LEFT--> (1, 1) [4] --RIGHT--> (1, 2) [5] --DOWN--> (2, 2) [5]
+Expand DOWN
+Expand UP
+Expand LEFT
+Expand RIGHT
+Nothing left to expand.
+Iteration 20
+(1, 2) [3] --DOWN--> (2, 2) [3] --RIGHT--> (2, 3) [5] --LEFT--> (2, 2) [5] --LEFT--> (2, 1) [5]
+Expand UP
+Expand DOWN
+Expand RIGHT
+Nothing left to expand.
+Iteration 21
+(1, 2) [3] --DOWN--> (2, 2) [3] --RIGHT--> (2, 3) [5] --LEFT--> (2, 2) [5] --DOWN--> (3, 2) [5]
+Expand UP
+Expand LEFT
+Expand RIGHT
+Nothing left to expand.
+Iteration 22
+(1, 2) [3] --RIGHT--> (1, 3) [5] --DOWN--> (2, 3) [5]
+Expand DOWN
+Expand UP
+Expand LEFT
+Nothing left to expand.
+Iteration 23
+(1, 2) [3] --RIGHT--> (1, 3) [5] --LEFT--> (1, 2) [5]
+Expand LEFT
+Expand DOWN
+Expand RIGHT
+Nothing left to expand.
+Iteration 24
+(1, 2) [3] --RIGHT--> (1, 3) [5] --DOWN--> (2, 3) [5] --DOWN--> (3, 3) [5]
+Expand UP
+Expand LEFT
+Nothing left to expand.
+Iteration 25
+(1, 2) [3] --RIGHT--> (1, 3) [5] --DOWN--> (2, 3) [5] --LEFT--> (2, 2) [5]
+Expand LEFT
+Expand UP
+Expand DOWN
+Expand RIGHT
+Nothing left to expand.
+Iteration 26
+(1, 2) [3] --RIGHT--> (1, 3) [5] --LEFT--> (1, 2) [5] --DOWN--> (2, 2) [5]
+Expand DOWN
+Expand UP
+Expand LEFT
+Expand RIGHT
+Nothing left to expand.
+Iteration 27
+(1, 2) [3] --DOWN--> (2, 2) [3] --DOWN--> (3, 2) [4] --RIGHT--> (3, 3) [5] --LEFT--> (3, 2) [6]
+Expand LEFT
+Expand UP
+Expand RIGHT
+Nothing left to expand.
+Iteration 28
+(1, 2) [3] --DOWN--> (2, 2) [3] --LEFT--> (2, 1) [4] --RIGHT--> (2, 2) [5] --DOWN--> (3, 2) [6]
+Expand UP
+Expand LEFT
+Expand RIGHT
+Nothing left to expand.
+Iteration 29
+(1, 2) [3] --DOWN--> (2, 2) [3] --LEFT--> (2, 1) [4] --RIGHT--> (2, 2) [5] --LEFT--> (2, 1) [6]
+Expand DOWN
+Nothing left to expand.
+Iteration 30
+(1, 2) [3] --LEFT--> (1, 1) [4] --DOWN--> (2, 1) [4] --RIGHT--> (2, 2) [5] --LEFT--> (2, 1) [6]
+Expand UP
+Expand DOWN
+Expand RIGHT
+Nothing left to expand.
+Iteration 31
+(1, 2) [3] --LEFT--> (1, 1) [4] --RIGHT--> (1, 2) [5] --LEFT--> (1, 1) [6]
+Expand DOWN
+Nothing left to expand.
+Iteration 32
+(1, 2) [3] --DOWN--> (2, 2) [3] --DOWN--> (3, 2) [4] --UP--> (2, 2) [5] --LEFT--> (2, 1) [6]
+Expand UP
+Expand DOWN
+Expand RIGHT
+Nothing left to expand.
+Iteration 33
+(1, 2) [3] --DOWN--> (2, 2) [3] --DOWN--> (3, 2) [4] --LEFT--> (3, 1) [6]
+Expand UP
+Expand RIGHT
+Nothing left to expand.
+Iteration 34
+(1, 2) [3] --DOWN--> (2, 2) [3] --UP--> (1, 2) [5] --LEFT--> (1, 1) [6]
+Expand DOWN
+Expand RIGHT
+Nothing left to expand.
+Iteration 35
+(1, 2) [3] --LEFT--> (1, 1) [4] --RIGHT--> (1, 2) [5] --DOWN--> (2, 2) [5] --LEFT--> (2, 1) [6]
+Expand UP
+Expand DOWN
+Expand RIGHT
+Nothing left to expand.
+Iteration 36
+(1, 2) [3] --DOWN--> (2, 2) [3] --DOWN--> (3, 2) [4] --LEFT--> (3, 1) [6] --UP--> (2, 1) [6]
+Expand UP
+Expand DOWN
+Expand RIGHT
+Nothing left to expand.
+Iteration 37
+(1, 2) [3] --DOWN--> (2, 2) [3] --DOWN--> (3, 2) [4] --LEFT--> (3, 1) [6] --RIGHT--> (3, 2) [6]
+Expand RIGHT
+Expand UP
+Expand LEFT
+Nothing left to expand.
+Iteration 38
+(1, 2) [3] --DOWN--> (2, 2) [3] --UP--> (1, 2) [5] --LEFT--> (1, 1) [6] --DOWN--> (2, 1) [6]
+Expand DOWN
+Expand UP
+Expand RIGHT
+Nothing left to expand.
+Iteration 39
+(1, 2) [3] --DOWN--> (2, 2) [3] --DOWN--> (3, 2) [4] --LEFT--> (3, 1) [6] --UP--> (2, 1) [6] --RIGHT--> (2, 2) [6]
+Expand RIGHT
+Expand UP
+Expand DOWN
+Expand LEFT
+Nothing left to expand.
+Iteration 40
+(1, 2) [3] --DOWN--> (2, 2) [3] --DOWN--> (3, 2) [4] --LEFT--> (3, 1) [6] --RIGHT--> (3, 2) [6] --UP--> (2, 2) [6]
+Expand UP
+Expand DOWN
+Expand LEFT
+Expand RIGHT
+Nothing left to expand.
+Iteration 41
+(1, 2) [3] --DOWN--> (2, 2) [3] --RIGHT--> (2, 3) [5] --LEFT--> (2, 2) [5] --LEFT--> (2, 1) [5] --DOWN--> (3, 1) [6]
+Expand UP
+Expand RIGHT
+Nothing left to expand.
+Iteration 42
+(1, 2) [3] --DOWN--> (2, 2) [3] --LEFT--> (2, 1) [4] --DOWN--> (3, 1) [6]
+Expand UP
+Expand RIGHT
+Nothing left to expand.
+Iteration 43
+(1, 2) [3] --LEFT--> (1, 1) [4] --DOWN--> (2, 1) [4] --DOWN--> (3, 1) [6]
+Expand UP
+Expand RIGHT
+Nothing left to expand.
+Iteration 44
+(1, 2) [3] --DOWN--> (2, 2) [3] --DOWN--> (3, 2) [4] --LEFT--> (3, 1) [6] --RIGHT--> (3, 2) [6] --UP--> (2, 2) [6] --RIGHT--> (2, 3) [6]
+Is a solution. Stop.
+Node visited: 44/126
+DOWN
+DOWN
+LEFT
+RIGHT
+UP
+RIGHT
+
+Time: 0.17
+
+OK (9 tests)
+
